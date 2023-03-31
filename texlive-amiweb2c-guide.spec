@@ -1,6 +1,6 @@
 Name:		texlive-amiweb2c-guide
 Version:	56878
-Release:	1
+Release:	2
 Summary:	How to install AmiWeb2c
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/amiweb2c-guide
