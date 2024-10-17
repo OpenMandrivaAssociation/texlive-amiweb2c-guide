@@ -3,7 +3,7 @@ Version:	56878
 Release:	2
 Summary:	How to install AmiWeb2c
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/amiweb2c-guide
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/amiweb2c-guide
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/amiweb2c-guide.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/amiweb2c-guide.doc.r%{version}.tar.xz
